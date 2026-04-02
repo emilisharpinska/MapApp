@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		26885D2C2F7EAE4C00C31684 /* MapApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		26885D2C2F7EAE4C00C31684 /* MapApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = MapApp.app; path = "/Users/emilisharpinska/Desktop/ios/MapApp/build/Debug-iphoneos/MapApp.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				26885D2E2F7EAE4C00C31684 /* MapApp */,
-				26885D2D2F7EAE4C00C31684 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		26885D2D2F7EAE4C00C31684 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				26885D2C2F7EAE4C00C31684 /* MapApp.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 26885D232F7EAE4C00C31684;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 26885D2D2F7EAE4C00C31684 /* Products */;
+			productRefGroup = 26885D232F7EAE4C00C31684;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (

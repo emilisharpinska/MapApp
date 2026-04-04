@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		26885D2C2F7EAE4C00C31684 /* MapApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = MapApp.app; path = "/Users/emilisharpinska/Desktop/ios/MapApp/build/Debug-iphoneos/MapApp.app"; sourceTree = "<absolute>"; };
+		26885D622F817FAA00C31684 /* MapApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,6 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				26885D2E2F7EAE4C00C31684 /* MapApp */,
+				26885D622F817FAA00C31684 /* MapApp.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,7 +59,7 @@
 			packageProductDependencies = (
 			);
 			productName = MapApp;
-			productReference = 26885D2C2F7EAE4C00C31684 /* MapApp.app */;
+			productReference = 26885D622F817FAA00C31684 /* MapApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
